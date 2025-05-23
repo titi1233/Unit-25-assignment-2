@@ -3,9 +3,12 @@
 
 
 # what the project does  
-this project is made to make a teacher and the student to make a atterndacne for a course rolse 
+this project is made to make a teacher and the student to make a atterndacne for a course role 
 # how to use the application
 you can use it in visual studio and run it and use each form to create a teacher and a student
+downlaod visual studio 
+run a project 
+and make a new one
 
 # technologies used
 visual studio snipping tool visual basic also
