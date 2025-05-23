@@ -1,14 +1,16 @@
 
-# attendance monitoring sstem using visual basic 
+# attendance monitoring system using visual basic 
 
 
 # what the project does  
 this project is made to make a teacher and the student to make a atterndacne for a course role 
 # how to use the application
 you can use it in visual studio and run it and use each form to create a teacher and a student
-downlaod visual studio 
-run a project 
-and make a new one
+Download the project
+Installing the visual studio 2022
+Checking the requirements 
+Running the file WinformsApp1.sin
+ 
 
 # technologies used
 visual studio snipping tool visual basic also
