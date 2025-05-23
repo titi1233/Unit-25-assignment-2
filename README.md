@@ -1,20 +1,21 @@
 
 # attendance monitoring sstem using visual basic 
 
-A brief description of what this project does and who it's for
 
 # what the project does  
-
-A brief description of what this project does and who it's for
+this project is made to make a teacher and the student to make a atterndacne for a course rolse 
 # how to use the application
-A brief description of what this project does and who it's for
+you can use it in visual studio and run it and use each form to create a teacher and a student
+
 # technologies used
+visual studio snipping tool 
 
-A brief description of what this project does and who it's for
+
 # your name and date 
+you can put in a name and a date to make it fully working for the student and the teacher also 
 
-A brief description of what this project does and who it's for
 # how this project simulates realworld work experience 
+it does because you can check attendance and make a course and a teacher for any course 
 
 
 
