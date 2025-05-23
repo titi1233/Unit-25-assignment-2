@@ -8,10 +8,10 @@ this project is made to make a teacher and the student to make a atterndacne for
 you can use it in visual studio and run it and use each form to create a teacher and a student
 
 # technologies used
-visual studio snipping tool 
+visual studio snipping tool visual basic also
 
 
-# your name and date 
+# Alex 23/5/2025 
 you can put in a name and a date to make it fully working for the student and the teacher also 
 
 # how this project simulates realworld work experience 
